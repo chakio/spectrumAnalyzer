@@ -1,7 +1,7 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 spectrumAnalyzer
 ====
-* LEDアレイでスペクトラムアナライザー
+* LEDアレイでスペクトラムアナライザー  
 ![result](https://github.com/chakio/spectrumAnalyzer/blob/master/media/spectrumAnalyzer.gif) 
 ## Description
 音響機器によく搭載sれていたスペクトラムアナライザーをarduinoとLEDバーで作成しました。
