@@ -19,6 +19,8 @@ spectrumAnalyzer
 [dxf](https://github.com/chakio/spectrumAnalyzer/blob/master/model/frontPanel.dxf)で書き出して、レーザカッター切り出しました.  
 
 メインの筐体の[モデル](https://github.com/chakio/spectrumAnalyzer/blob/master/model/body.stl)を、3Dプリンタで制作しました。  
+上面には、明るさ調整用のボリューム、
+側面には、arduinoの書き込み用のmicroUSBの先込み口、
 背面には、DC電源と音声入力用のイヤホンジャック、モード切り替え用のスイッチ用の穴が開いています。
 
 ![result](https://github.com/chakio/spectrumAnalyzer/blob/master/media/IMG_9833.JPG)   
